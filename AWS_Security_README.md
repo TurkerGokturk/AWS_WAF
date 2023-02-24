@@ -2,8 +2,7 @@
 
 !!!!Warning: This hands-on may charge you because of the resource we'll create. 
 
-Purpose of this hands-on training is to get exposure to AWS WAF.  We'll cover how to attach WAF Web ACLs to an Application Load Balancer
-and prevent undesired traffic getting through to servers behind the WAF.
+Purpose of this hands-on training is to get exposure to AWS WAF.  We'll cover how to attach WAF Web ACLs to an Application Load Balancer and prevent undesired traffic getting through to servers behind the WAF.
 
 ## Learning Outcomes
 
